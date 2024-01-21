@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Azraei</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">A UTM student studying Bachelor Software Engineering</h3>
 
 - 🔭 I’m currently working on **Design Thinking**
 
