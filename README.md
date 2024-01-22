@@ -19,6 +19,7 @@ On December 5, 2023, UTM Digital team conducted Industrial Talk 2, an online ses
 [video](https://www.powtoon.com/c/cuOSuu8TqVp/0/m) 
 
 ## Assignment 3 Credence (TM Subsidiary)
+On December 28, 2023, Ms. Qistina from Credence (TM Subsidiary) delivered Industrial Talk 3, focusing on System Development. Ms. Qistina, drawing from her rich professional background, provided a detailed account of her journey from student years to her current role as a System Analyst. The session was marked by a wealth of invaluable insights and knowledge garnered throughout her career, enriching participants with a nuanced understanding of the intricacies of system development. This academic discourse not only highlighted the significance of experiential learning but also underscored the real-world applications of the theoretical concepts discussed, offering students a comprehensive view of the challenges and achievements within the realm of system development.
 [Report](https://github.com/azraei3/azraei3.github.io/blob/main/Assignments/Assignment%203%20Group%20Adam%20Azraei.pdf)
 
 ## Assignment 4 Industrial Visit Indah Water
