@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 ## Assignment 1 Clarity Techworks
-On 14th Nov 2023, there was an Industrial Talk 1 by Clarity Techworks SDN BHD. They covered various topics and insights on their company and jobs such as android developer, WEB/API developer, UI/UX designer and testing analyst. After that, we were assigned to create a poster regarding to the industrial talk. Here is the [Poster](https://github.com/azraei3/azraei3.github.io/blob/main/Assignments/Clarity%20techwork.pdf)
+On November 14, 2023, Clarity Techworks SDN BHD conducted Industrial Talk 1, presenting diverse insights into their company and job opportunities in roles such as Android developer, WEB/API developer, UI/UX designer, and testing analyst. The session aimed to enlighten participants on the company's operations and potential career paths. Following this engaging discourse, attendees were assigned the task of crafting a poster summarizing the key takeaways from the industrial talk. The [poster](https://github.com/azraei3/azraei3.github.io/blob/main/Assignments/Clarity%20techwork.pdf) serves as a visual representation of the event, condensing the valuable information shared during the session for easy reference and dissemination.
 
 ## Assignment 2
 [video](https://www.powtoon.com/c/cuOSuu8TqVp/0/m)
