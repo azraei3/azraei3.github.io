@@ -29,4 +29,4 @@ On the 3rd of January 2024, first-year students enrolled in SECP1513 Technology 
 
 ## PC Assembly
 Engaging in an individual task, I undertook the comprehensive study of various videos elucidating PC Assembly, encompassing the step-by-step processes of disassembling and assembling computers, as well as emphasizing safety measures and precautions essential in handling PCs. The curated videos not only provided a detailed walkthrough of the intricate procedures involved in assembling and disassembling a computer but also underscored the critical importance of adhering to safety protocols during these processes. This academic endeavor allowed for a holistic understanding of PC assembly, merging theoretical knowledge with practical application, and fostering a heightened awareness of the precautions necessary to ensure a secure and efficient handling of computer components.
-[Task Sheet]
+[Task Sheet](https://github.com/azraei3/azraei3.github.io/blob/main/Assignments/PC%20Assembly%20Adam%20Azraei.pdf).
