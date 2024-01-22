@@ -15,7 +15,9 @@
 On November 14, 2023, Clarity Techworks SDN BHD conducted Industrial Talk 1, presenting diverse insights into their company and job opportunities in roles such as Android developer, WEB/API developer, UI/UX designer, and testing analyst. The session aimed to enlighten participants on the company's operations and potential career paths. Following this engaging discourse, attendees were assigned the task of crafting a poster summarizing the key takeaways from the industrial talk. The [poster](https://github.com/azraei3/azraei3.github.io/blob/main/Assignments/Clarity%20techwork.pdf) serves as a visual representation of the event, condensing the valuable information shared during the session for easy reference and dissemination.
 
 ## Assignment 2
-[video](https://www.powtoon.com/c/cuOSuu8TqVp/0/m)
+On December 5, 2023, UTM Digital team conducted Industrial Talk 2, an online session providing crucial insights into their pivotal role as overseers of UTM's connectivity, cloud infrastructure, and website functionality. This team plays a vital role in maintaining the seamless operation of these digital components for UTM. Serving as a fundamental introduction to their responsibilities, the session aimed to deepen students' understanding of the intricate processes involved in ensuring optimal digital functionality. Following the talk, students were tasked with producing a video encapsulating the key aspects discussed during the industrial session. This assignment not only fosters a practical application of the knowledge gained but also serves as a creative means of reinforcing the concepts presented by UTM Digital.
+[video](https://www.powtoon.com/c/cuOSuu8TqVp/0/m) 
+
 ## Assignment 3 Credence (TM Subsidiary)
 [Report](https://github.com/azraei3/azraei3.github.io/blob/main/Assignments/Assignment%203%20Group%20Adam%20Azraei.pdf)
 
