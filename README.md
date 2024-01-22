@@ -11,6 +11,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
+## Design Thinking
+Design thinking is a problem-solving approach that emphasizes understanding user needs, defining challenges, generating creative ideas, building prototypes, testing, and implementing solutions. It's a methodical and human-centered process aimed at creating innovative and effective solutions by empathizing with users and iteratively refining ideas. This approach encourages collaboration, diverse perspectives, and optimism in finding solutions to complex problems.
+[Report]()
 ## Assignment 1 Clarity Techworks
 On November 14, 2023, Clarity Techworks SDN BHD conducted Industrial Talk 1, presenting diverse insights into their company and job opportunities in roles such as Android developer, WEB/API developer, UI/UX designer, and testing analyst. The session aimed to enlighten participants on the company's operations and potential career paths. Following this engaging discourse, attendees were assigned the task of crafting a poster summarizing the key takeaways from the industrial talk. The poster serves as a visual representation of the event, condensing the valuable information shared during the session for easy reference and dissemination.
 [Poster](https://github.com/azraei3/azraei3.github.io/blob/main/Assignments/Clarity%20techwork.pdf) 
